@@ -62,3 +62,11 @@ W:循环神经网络的隐藏层的值s不仅仅取决于当前这次的输入x�
 ### Reference(参考文档)
 
 * [RNN理解](https://zhuanlan.zhihu.com/p/30844905)
+
+<!-- related:start -->
+## 相关笔记
+
+- [深度学习基础索引](%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%B4%A2%E5%BC%95.md)
+- [Transformer模型结构](../02-Transformer%E4%B8%8E%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/Transformer%E6%A8%A1%E5%9E%8B%E7%BB%93%E6%9E%84.md)
+- [NLP](../../machine-learning/NLP.md)
+<!-- related:end -->

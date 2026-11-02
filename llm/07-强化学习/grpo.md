@@ -29,3 +29,10 @@ GRPO 的 per-token loss 形状是 `[batch, seq_len]`,需要聚合成一个 scala
 ### Dr. GRPO 的修正
 
 把 `masked_mean` 换成 `masked_normalize(..., constant_normalizer=L_max)`。改动很小,但让 loss 聚合回到 policy gradient 的原始数学形式,消除 length 维度上的隐性 bias。这是 Dr. GRPO 三个修正中的一个(另外两个是去掉 std normalization、保留 mean baseline)。
+
+<!-- related:start -->
+## 相关笔记
+
+- [强化学习索引](%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%B4%A2%E5%BC%95.md)
+- [强化学习](%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md)
+<!-- related:end -->

@@ -293,3 +293,11 @@ LeNet-5,AlexNet,VGG-16,ResNet,GoogLeNet
 * [leetcode-github库](https://github.com/aceliuchanghong/myLeetCode)
 * [CNN基础及经典模型介绍](https://zhuanlan.zhihu.com/p/344562609)
 * [CNN卷积核与通道讲解](https://zhuanlan.zhihu.com/p/251068800)
+
+<!-- related:start -->
+## 相关笔记
+
+- [深度学习基础索引](%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%B4%A2%E5%BC%95.md)
+- [PyTorch搭建神经网络](PyTorch%E6%90%AD%E5%BB%BA%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md)
+- [Yolo基础知识](Yolo%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
+<!-- related:end -->

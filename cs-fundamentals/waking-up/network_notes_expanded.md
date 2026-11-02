@@ -382,3 +382,10 @@ Cookie保存在客户端本地，客户端请求服务器时会将Cookie一起�
 - [【面试】计算机网络_雨下一整晚real的博客-CSDN博客](https://blog.csdn.net/qq_43103529/article/details/120813469)
 - [什么时候选TCP、UDP？](https://blog.csdn.net/yjxsdzx/article/details/71937886)
 - [TCP速率与窗口，带宽，RTT之间的关系](https://blog.csdn.net/bad_sheep/article/details/6158676)
+
+<!-- related:start -->
+## 相关笔记
+
+- [后端面试笔记索引](%E5%90%8E%E7%AB%AF%E9%9D%A2%E8%AF%95%E7%AC%94%E8%AE%B0%E7%B4%A2%E5%BC%95.md)
+- [Computer Network](Computer%20Network.md)
+<!-- related:end -->

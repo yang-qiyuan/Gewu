@@ -186,3 +186,11 @@ model.train()
 ### Reference(参考文档)
 * [PyTorch搭建神经网络](https://zhuanlan.zhihu.com/p/631263095)
 * [paddle&tensorflow](https://github.com/aceliuchanghong/large_scale_models_learning_log/blob/main/my_llm_article/paddle%26tensorflow.md)
+
+<!-- related:start -->
+## 相关笔记
+
+- [深度学习基础索引](%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%B4%A2%E5%BC%95.md)
+- [CNN卷积神经网络基础](CNN%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80.md)
+- [Pytorch基本用法](Pytorch%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95.md)
+<!-- related:end -->

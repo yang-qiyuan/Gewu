@@ -2058,5 +2058,9 @@ print("\n--- SHAP waterfall plot 已生成。---")
 
 #### 怎么让业务就是相信你给的数据可能是有效的?或者是说你能不能举个例子 有业务反馈这个东西需要迭代?然后你再怎么迭代的?
 
+<!-- related:start -->
+## 相关笔记
 
-
+- [面试必问问题](../../../interview-prep/%E9%9D%A2%E8%AF%95%E5%BF%85%E9%97%AE%E9%97%AE%E9%A2%98.md)
+- [训练与推理](../../03-%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0/%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%8E%A8%E7%90%86.md)
+<!-- related:end -->

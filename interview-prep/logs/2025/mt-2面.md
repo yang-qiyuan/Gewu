@@ -650,3 +650,14 @@ print("Confusion Matrix:\n", confusion_matrix(y_test, y_pred))
 - **结合你的背景**：
   - 利用ETL自动化数据处理，实时更新用户画像。
   - 使用BI工具可视化性能和解释性，嵌入监管报送流程。
+
+<!-- related:start -->
+## 相关笔记
+
+- [2025面经索引](2025%E9%9D%A2%E7%BB%8F%E7%B4%A2%E5%BC%95.md)
+- [mt](mt.md)
+- [Transformer模型结构](../../../llm/02-Transformer%E4%B8%8E%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/Transformer%E6%A8%A1%E5%9E%8B%E7%BB%93%E6%9E%84.md)
+- [微调优化](../../../llm/04-%E5%BE%AE%E8%B0%83/%E5%BE%AE%E8%B0%83%E4%BC%98%E5%8C%96.md)
+- [kubernetes](../../../llm/06-%E6%8E%A8%E7%90%86%E4%B8%8E%E9%83%A8%E7%BD%B2/kubernetes.md)
+- [metric](../../../machine-learning/metric.md)
+<!-- related:end -->

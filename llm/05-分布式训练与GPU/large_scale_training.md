@@ -147,3 +147,13 @@ GPU 3: 参数(完整) + 梯度(完整) + 优化器状态[75~100%]
 **解决**：本地累积多个 micro-batch 的梯度后再同步一次，等效于更大的 batch size，以计算换通信效率。
 
 $$\text{有效 batch size} = \text{micro-batch size} \times \text{梯度累积步数} \times \text{DP}$$
+
+<!-- related:start -->
+## 相关笔记
+
+- [分布式训练与GPU索引](%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%AD%E7%BB%83%E4%B8%8EGPU%E7%B4%A2%E5%BC%95.md)
+- [test_time_scaling](../03-%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0/test_time_scaling.md)
+- [训练与推理](../03-%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0/%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%8E%A8%E7%90%86.md)
+- [DeepSpeed](DeepSpeed.md)
+- [cuda_triton](cuda_triton.md)
+<!-- related:end -->

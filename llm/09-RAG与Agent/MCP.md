@@ -23,3 +23,10 @@ Shanghai,28517000,China,Asia
 Suggestion: To get more specific information (weather, attractions, demographics), try calling get_city_details with the city_name parameter.
 ```
 
+<!-- related:start -->
+## 相关笔记
+
+- [RAG与Agent索引](RAG%E4%B8%8EAgent%E7%B4%A2%E5%BC%95.md)
+- [agent_framework](agent_framework.md)
+- [claude_code](claude_code.md)
+<!-- related:end -->

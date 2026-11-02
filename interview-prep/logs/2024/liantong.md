@@ -68,5 +68,10 @@ GPT-SOVITS针对鉴别器相较于SOVITS5做了一些简化，主要的差异是
 ### Reference
 * [sovits](https://zhuanlan.zhihu.com/p/682397912)
 
+<!-- related:start -->
+## 相关笔记
 
-
+- [2024面经索引](2024%E9%9D%A2%E7%BB%8F%E7%B4%A2%E5%BC%95.md)
+- [Transformer模型结构](../../../llm/02-Transformer%E4%B8%8E%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/Transformer%E6%A8%A1%E5%9E%8B%E7%BB%93%E6%9E%84.md)
+- [微调优化](../../../llm/04-%E5%BE%AE%E8%B0%83/%E5%BE%AE%E8%B0%83%E4%BC%98%E5%8C%96.md)
+<!-- related:end -->

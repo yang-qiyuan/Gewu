@@ -122,3 +122,11 @@ T5和YOLO的“通用框架”理念高度相似：
 - 任务前缀像YOLO的anchor box，引导模型聚焦特定任务。
 - 预训练的span corruption像YOLO的COCO预训练，赋予模型通用知识。
 
+<!-- related:start -->
+## 相关笔记
+
+- [Transformer与模型架构索引](Transformer%E4%B8%8E%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84%E7%B4%A2%E5%BC%95.md)
+- [Transformer模型结构](Transformer%E6%A8%A1%E5%9E%8B%E7%BB%93%E6%9E%84.md)
+- [不同大模型架构](%E4%B8%8D%E5%90%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84.md)
+- [NLP](../../machine-learning/NLP.md)
+<!-- related:end -->

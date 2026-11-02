@@ -146,3 +146,9 @@ Action 5 Finish[1,800 to 7,000 ft]
 ## Reflexion
 Compared to "ReAct", an LLM evaluator is added to evaluate the trajactory, and save the rewards based on the evaluations. The self-reflection model makes use of the reward signal, the current trajectory, and its persistent memory to output relection texts. Finally, the LLM uses this text to take the next action.
 
+<!-- related:start -->
+## 相关笔记
+
+- [RAG与Agent索引](RAG%E4%B8%8EAgent%E7%B4%A2%E5%BC%95.md)
+- [prompt_engineering_guide](prompt_engineering_guide.md)
+<!-- related:end -->

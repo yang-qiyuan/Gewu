@@ -88,3 +88,10 @@ results = model.predict(source=im1, save=True, save_txt=True)
 ```
 
 之后可以转成其他格式,边缘设备使用
+
+<!-- related:start -->
+## 相关笔记
+
+- [深度学习基础索引](%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%B4%A2%E5%BC%95.md)
+- [CNN卷积神经网络基础](CNN%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80.md)
+<!-- related:end -->

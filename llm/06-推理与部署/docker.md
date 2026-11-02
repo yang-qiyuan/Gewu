@@ -59,3 +59,10 @@
     ```Text
     用 YAML 定义多容器应用（services/volumes/networks）；一键启动开发/测试栈。
     ```
+
+<!-- related:start -->
+## 相关笔记
+
+- [推理与部署索引](%E6%8E%A8%E7%90%86%E4%B8%8E%E9%83%A8%E7%BD%B2%E7%B4%A2%E5%BC%95.md)
+- [kubernetes](kubernetes.md)
+<!-- related:end -->

@@ -615,3 +615,10 @@ C 语言使用运行时栈来存储过程信息。每个函数的信息存储在
 <div>
 <img src="_v_images/20191202162008435_14938.png" width=540px></img>
 </div>
+
+<!-- related:start -->
+## 相关笔记
+
+- [后端面试笔记索引](%E5%90%8E%E7%AB%AF%E9%9D%A2%E8%AF%95%E7%AC%94%E8%AE%B0%E7%B4%A2%E5%BC%95.md)
+- [os_notes_expanded](os_notes_expanded.md)
+<!-- related:end -->

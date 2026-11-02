@@ -515,3 +515,12 @@ with torch.no_grad():
 * [学习的github](https://github.com/aceliuchanghong/Pytorch-NLP)
 * [机器学习-有点广但不精](https://mofanpy.com/)
 * [NLP-Tutorials](https://github.com/aceliuchanghong/NLP-Tutorials)
+
+<!-- related:start -->
+## 相关笔记
+
+- [深度学习基础索引](%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%B4%A2%E5%BC%95.md)
+- [Python Handbook](../../cs-fundamentals/waking-up/Python%20Handbook.md)
+- [PyTorch搭建神经网络](PyTorch%E6%90%AD%E5%BB%BA%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md)
+- [PyTorch从0开始编写Transformer](../02-Transformer%E4%B8%8E%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/PyTorch%E4%BB%8E0%E5%BC%80%E5%A7%8B%E7%BC%96%E5%86%99Transformer.md)
+<!-- related:end -->

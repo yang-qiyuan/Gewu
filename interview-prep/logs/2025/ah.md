@@ -15,3 +15,10 @@
 8.  如何把复杂的工程问题转成这个AI能解决的问题,通过workflow?agent?微调?
 9.  输出json格式如何保证
 10. 数字人agent的asr是先asr还是直接多模态的
+
+<!-- related:start -->
+## 相关笔记
+
+- [2025面经索引](2025%E9%9D%A2%E7%BB%8F%E7%B4%A2%E5%BC%95.md)
+- [微调优化](../../../llm/04-%E5%BE%AE%E8%B0%83/%E5%BE%AE%E8%B0%83%E4%BC%98%E5%8C%96.md)
+<!-- related:end -->

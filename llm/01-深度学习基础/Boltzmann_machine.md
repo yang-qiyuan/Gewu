@@ -208,3 +208,10 @@ if __name__ == '__main__':
   print(r.run_visible(user))
 
 ```
+
+<!-- related:start -->
+## 相关笔记
+
+- [深度学习基础索引](%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%B4%A2%E5%BC%95.md)
+- [MathInML](../../machine-learning/MathInML.md)
+<!-- related:end -->

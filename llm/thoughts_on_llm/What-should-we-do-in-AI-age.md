@@ -20,3 +20,8 @@ AI时代做什么?
 那么AI时代...?
 ```
 
+<!-- related:start -->
+## 相关笔记
+
+- [工作职业规划](../../interview-prep/%E5%B7%A5%E4%BD%9C%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92.md)
+<!-- related:end -->

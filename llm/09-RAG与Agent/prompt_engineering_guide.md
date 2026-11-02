@@ -60,3 +60,15 @@
 ## 9. Security
 
 - **Security needs care:** use separate accounts, prefer staging or development environments, avoid unnecessary production access, and use readonly credentials when possible.
+
+<!-- related:start -->
+## 相关笔记
+
+- [RAG与Agent索引](RAG%E4%B8%8EAgent%E7%B4%A2%E5%BC%95.md)
+- [ucloud](../../interview-prep/logs/2024/ucloud.md)
+- [上海ym](../../interview-prep/logs/2025/%E4%B8%8A%E6%B5%B7ym.md)
+- [商汤绝影](../../interview-prep/logs/2025/%E5%95%86%E6%B1%A4%E7%BB%9D%E5%BD%B1.md)
+- [术锐](../../interview-prep/logs/2025/%E6%9C%AF%E9%94%90.md)
+- [RAG](RAG.md)
+- [types_of_promp_engineering](types_of_promp_engineering.md)
+<!-- related:end -->

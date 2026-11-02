@@ -108,3 +108,13 @@ AUPRC = ∫ Precision(Recall) dRecall （通常通过数值积分计算）
 | AUROC     | 排序能力                   | 信用评分、二分类    |
 | PR-ROC    | 不平衡样本性能                | 欺诈检测、罕见事件识别 |
 
+<!-- related:start -->
+## 相关笔记
+
+- [机器学习索引](%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%B4%A2%E5%BC%95.md)
+- [mt-2面](../interview-prep/logs/2025/mt-2%E9%9D%A2.md)
+- [模型评估](../llm/03-%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0/%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0.md)
+- [data_imbalance](../llm/08-%E6%95%B0%E6%8D%AE/data_imbalance.md)
+- [金融违约风险检测](../llm/10-%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF/%E9%87%91%E8%9E%8D%E8%BF%9D%E7%BA%A6%E9%A3%8E%E9%99%A9%E6%A3%80%E6%B5%8B.md)
+- [聚类.分类_算法](%E8%81%9A%E7%B1%BB.%E5%88%86%E7%B1%BB_%E7%AE%97%E6%B3%95.md)
+<!-- related:end -->

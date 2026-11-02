@@ -41,3 +41,10 @@ tokenizer = AutoTokenizer.from_pretrained(base_model, trust_remote_code=True, ca
 * [Github1页面](https://github.com/aceliuchanghong/chatglm3_6b_finetune)
 * [Github2页面](https://github.com/aceliuchanghong/chatglm3-base-tuning)
 * [讨论区](https://github.com/THUDM/ChatGLM3/discussions/253)
+
+<!-- related:start -->
+## 相关笔记
+
+- [微调索引](../%E5%BE%AE%E8%B0%83%E7%B4%A2%E5%BC%95.md)
+- [LoRA..ETC](../LoRA..ETC.md)
+<!-- related:end -->

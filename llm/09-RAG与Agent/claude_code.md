@@ -43,3 +43,10 @@
 - Agent Tool
 ### 权限竞争
 
+<!-- related:start -->
+## 相关笔记
+
+- [RAG与Agent索引](RAG%E4%B8%8EAgent%E7%B4%A2%E5%BC%95.md)
+- [MCP](MCP.md)
+- [agent_framework](agent_framework.md)
+<!-- related:end -->

@@ -422,4 +422,12 @@ uv run train.py
 * [论文:Attention Is All You Need](../resources/paper/attention_is_all_you_need.pdf)
 * [原始论文地址](https://arxiv.org/abs/1706.03762)
 * [llm张-教学视频](https://space.bilibili.com/3546611527453161/lists/4721368)
-* 
+*
+
+<!-- related:start -->
+## 相关笔记
+
+- [Transformer与模型架构索引](Transformer%E4%B8%8E%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84%E7%B4%A2%E5%BC%95.md)
+- [Pytorch基本用法](../01-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/Pytorch%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95.md)
+- [Transformer模型结构](Transformer%E6%A8%A1%E5%9E%8B%E7%BB%93%E6%9E%84.md)
+<!-- related:end -->

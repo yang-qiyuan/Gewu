@@ -108,3 +108,10 @@ What are cliques in undirected structured probabilistic models?
 1. What is confidence interval?
 1. What is standard error?
 
+<!-- related:start -->
+## 相关笔记
+
+- [机器学习索引](%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%B4%A2%E5%BC%95.md)
+- [Boltzmann_machine](../llm/01-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/Boltzmann_machine.md)
+- [optimizer](../llm/01-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/optimizer.md)
+<!-- related:end -->

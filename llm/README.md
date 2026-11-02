@@ -73,3 +73,19 @@ llm/
 
 ### *Star History*
 [![Star History Chart](https://api.star-history.com/svg?repos=aceliuchanghong/FAQ_Of_LLM_Interview&type=Date)](https://www.star-history.com/#aceliuchanghong/FAQ_Of_LLM_Interview&Date)
+
+<!-- related:start -->
+## 相关笔记
+
+- [深度学习基础索引](01-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%B4%A2%E5%BC%95.md)
+- [Transformer与模型架构索引](02-Transformer%E4%B8%8E%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/Transformer%E4%B8%8E%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84%E7%B4%A2%E5%BC%95.md)
+- [训练与评估索引](03-%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0/%E8%AE%AD%E7%BB%83%E4%B8%8E%E8%AF%84%E4%BC%B0%E7%B4%A2%E5%BC%95.md)
+- [微调索引](04-%E5%BE%AE%E8%B0%83/%E5%BE%AE%E8%B0%83%E7%B4%A2%E5%BC%95.md)
+- [分布式训练与GPU索引](05-%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%AD%E7%BB%83%E4%B8%8EGPU/%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%AD%E7%BB%83%E4%B8%8EGPU%E7%B4%A2%E5%BC%95.md)
+- [推理与部署索引](06-%E6%8E%A8%E7%90%86%E4%B8%8E%E9%83%A8%E7%BD%B2/%E6%8E%A8%E7%90%86%E4%B8%8E%E9%83%A8%E7%BD%B2%E7%B4%A2%E5%BC%95.md)
+- [强化学习索引](07-%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%B4%A2%E5%BC%95.md)
+- [数据索引](08-%E6%95%B0%E6%8D%AE/%E6%95%B0%E6%8D%AE%E7%B4%A2%E5%BC%95.md)
+- [RAG与Agent索引](09-RAG%E4%B8%8EAgent/RAG%E4%B8%8EAgent%E7%B4%A2%E5%BC%95.md)
+- [业务场景索引](10-%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF/%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E7%B4%A2%E5%BC%95.md)
+- [ans](resources/result/ans.md)
+<!-- related:end -->

@@ -349,3 +349,10 @@ print("Total Parameters: ", total_params)
 * [zero-shot](https://blog.csdn.net/zcyzcyjava/article/details/127006287)
 * [YARN 分布式资源调度](https://zhuanlan.zhihu.com/p/28640358)
 * [LLMs多卡并行](https://zhuanlan.zhihu.com/p/402198819)
+
+<!-- related:start -->
+## 相关笔记
+
+- [2024面经索引](2024%E9%9D%A2%E7%BB%8F%E7%B4%A2%E5%BC%95.md)
+- [微调优化](../../../llm/04-%E5%BE%AE%E8%B0%83/%E5%BE%AE%E8%B0%83%E4%BC%98%E5%8C%96.md)
+<!-- related:end -->

@@ -55,3 +55,13 @@ Use REINFORCE, PPO, or a simplified variant. Focus on:
 This assignment is open-ended. Focus on demonstrating depth in RL formulation, reward design, and structured experimentation.
 You are not expected to productionize your agent — aim for thoughtful design, working prototypes, and insightful evaluation.
 ```
+
+<!-- related:start -->
+## 相关笔记
+
+- [项目索引](../%E9%A1%B9%E7%9B%AE%E7%B4%A2%E5%BC%95.md)
+- [上海ym](../../interview-prep/logs/2025/%E4%B8%8A%E6%B5%B7ym.md)
+- [强化学习](../../llm/07-%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md)
+- [analysis](analysis.md)
+- [prompt](prompt.md)
+<!-- related:end -->

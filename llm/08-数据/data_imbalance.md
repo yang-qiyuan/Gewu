@@ -85,3 +85,13 @@ pipe = Pipeline([
 cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=0)
 scores = cross_val_score(pipe, X, y, cv=cv, scoring="f1_macro")
 print("F1-macro:", scores.mean(), "+/-", scores.std())
+
+```
+
+<!-- related:start -->
+## 相关笔记
+
+- [数据索引](%E6%95%B0%E6%8D%AE%E7%B4%A2%E5%BC%95.md)
+- [金融违约风险检测](../10-%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF/%E9%87%91%E8%9E%8D%E8%BF%9D%E7%BA%A6%E9%A3%8E%E9%99%A9%E6%A3%80%E6%B5%8B.md)
+- [metric](../../machine-learning/metric.md)
+<!-- related:end -->

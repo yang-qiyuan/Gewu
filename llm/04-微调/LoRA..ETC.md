@@ -92,3 +92,18 @@ P-Tuning v2 是对 P-Tuning 的进一步改进，其核心思想是使用少量�
 * [Github1页面](https://github.com/aceliuchanghong/chatglm3_6b_finetune)
 * [Github2页面](https://github.com/aceliuchanghong/chatglm3-base-tuning)
 * [Github3页面](https://github.com/aceliuchanghong/llm-action)
+
+<!-- related:start -->
+## 相关笔记
+
+- [微调索引](%E5%BE%AE%E8%B0%83%E7%B4%A2%E5%BC%95.md)
+- [ucloud](../../interview-prep/logs/2024/ucloud.md)
+- [商汤绝影](../../interview-prep/logs/2025/%E5%95%86%E6%B1%A4%E7%BB%9D%E5%BD%B1.md)
+- [赛力斯-2](../../interview-prep/logs/2025/%E8%B5%9B%E5%8A%9B%E6%96%AF-2.md)
+- [个人存储的各方向速成问题及解答-2025](../../interview-prep/%E4%B8%AA%E4%BA%BA%E5%AD%98%E5%82%A8%E7%9A%84%E5%90%84%E6%96%B9%E5%90%91%E9%80%9F%E6%88%90%E9%97%AE%E9%A2%98%E5%8F%8A%E8%A7%A3%E7%AD%94-2025.md)
+- [PEFT 进阶操作](PEFT%20%E8%BF%9B%E9%98%B6%E6%93%8D%E4%BD%9C.md)
+- [fine-tune参数解释](fine-tune%E5%8F%82%E6%95%B0%E8%A7%A3%E9%87%8A.md)
+- [LLM_Fine_Tuning](fine_tune/LLM_Fine_Tuning.md)
+- [微调优化](%E5%BE%AE%E8%B0%83%E4%BC%98%E5%8C%96.md)
+- [大模型量化](../06-%E6%8E%A8%E7%90%86%E4%B8%8E%E9%83%A8%E7%BD%B2/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%87%8F%E5%8C%96.md)
+<!-- related:end -->

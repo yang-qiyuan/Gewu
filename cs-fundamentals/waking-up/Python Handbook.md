@@ -174,3 +174,11 @@ print(a is b)
 - [为什么Python多线程无法利用多核](https://www.mdeditor.tw/pl/pXhj)
 - [GIL锁、线程锁(互斥锁)、递归锁(RLock)](https://www.cnblogs.com/Keep-Ambition/p/7596098.html)
 
+<!-- related:start -->
+## 相关笔记
+
+- [后端面试笔记索引](%E5%90%8E%E7%AB%AF%E9%9D%A2%E8%AF%95%E7%AC%94%E8%AE%B0%E7%B4%A2%E5%BC%95.md)
+- [Design Pattern](Design%20Pattern.md)
+- [python_notes_expanded](python_notes_expanded.md)
+- [Pytorch基本用法](../../llm/01-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/Pytorch%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95.md)
+<!-- related:end -->

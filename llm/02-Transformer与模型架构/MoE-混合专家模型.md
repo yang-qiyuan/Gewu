@@ -199,3 +199,10 @@ test_token_level_moe()
   - **训练更难稳定**：负载均衡、路由崩塌, 如果路由器把大多数token都放到几个expert，那么会造成学习困难
   - **系统复杂，通信开销，延迟难控制**: 跨设备路由带来all-to-all通信开销
   - **参数多，不易量化**
+
+<!-- related:start -->
+## 相关笔记
+
+- [Transformer与模型架构索引](Transformer%E4%B8%8E%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84%E7%B4%A2%E5%BC%95.md)
+- [不同大模型架构](%E4%B8%8D%E5%90%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84.md)
+<!-- related:end -->

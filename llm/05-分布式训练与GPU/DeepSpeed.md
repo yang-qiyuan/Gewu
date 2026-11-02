@@ -25,3 +25,18 @@ Note: 所有模型参数都在每个GPU上有一份
     通信开销： 会引入额外的通信开销（参数的All-Gather）。
     适用场景： 训练超大规模模型（如参数量过大以至于单个GPU无法容纳模型本身）的必备阶段，也支持大型模型推理。
    ```
+
+<!-- related:start -->
+## 相关笔记
+
+- [分布式训练与GPU索引](%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%AD%E7%BB%83%E4%B8%8EGPU%E7%B4%A2%E5%BC%95.md)
+- [ucloud](../../interview-prep/logs/2024/ucloud.md)
+- [byd-2](../../interview-prep/logs/2025/byd-2.md)
+- [mt](../../interview-prep/logs/2025/mt.md)
+- [喆塔信息](../../interview-prep/logs/2025/%E5%96%86%E5%A1%94%E4%BF%A1%E6%81%AF.md)
+- [平安](../../interview-prep/logs/2025/%E5%B9%B3%E5%AE%89.md)
+- [赛力斯-2](../../interview-prep/logs/2025/%E8%B5%9B%E5%8A%9B%E6%96%AF-2.md)
+- [赛力斯](../../interview-prep/logs/2025/%E8%B5%9B%E5%8A%9B%E6%96%AF.md)
+- [Accelerate Method](Accelerate%20Method.md)
+- [large_scale_training](large_scale_training.md)
+<!-- related:end -->

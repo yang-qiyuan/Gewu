@@ -397,3 +397,10 @@ SQL 语句的优化
   - [Redis常见面试题 - 博客园](https://www.cnblogs.com/jasontec/p/9699242.html)
   - [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference#10)
 - [ ] [史上最全的数据库面试题，不看绝对后悔 -- 博客园](https://www.cnblogs.com/wenxiaofei/p/9853682.html)
+
+<!-- related:start -->
+## 相关笔记
+
+- [后端面试笔记索引](%E5%90%8E%E7%AB%AF%E9%9D%A2%E8%AF%95%E7%AC%94%E8%AE%B0%E7%B4%A2%E5%BC%95.md)
+- [redis](../../llm/06-%E6%8E%A8%E7%90%86%E4%B8%8E%E9%83%A8%E7%BD%B2/redis.md)
+<!-- related:end -->

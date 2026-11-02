@@ -94,3 +94,16 @@ DeepSpeed是微软开发的一个深度学习优化库,主要用于训练超大�
 
 * [各种微调讲解](https://github.com/liucongg/ChatGLM-Finetuning)
 * [chatglm的lora微调](https://zhuanlan.zhihu.com/p/621793987)
+
+<!-- related:start -->
+## 相关笔记
+
+- [2024面经索引](2024%E9%9D%A2%E7%BB%8F%E7%B4%A2%E5%BC%95.md)
+- [Transformer模型结构](../../../llm/02-Transformer%E4%B8%8E%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/Transformer%E6%A8%A1%E5%9E%8B%E7%BB%93%E6%9E%84.md)
+- [不同大模型架构](../../../llm/02-Transformer%E4%B8%8E%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/%E4%B8%8D%E5%90%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84.md)
+- [位置编码](../../../llm/02-Transformer%E4%B8%8E%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/%E4%BD%8D%E7%BD%AE%E7%BC%96%E7%A0%81.md)
+- [LoRA..ETC](../../../llm/04-%E5%BE%AE%E8%B0%83/LoRA..ETC.md)
+- [微调优化](../../../llm/04-%E5%BE%AE%E8%B0%83/%E5%BE%AE%E8%B0%83%E4%BC%98%E5%8C%96.md)
+- [DeepSpeed](../../../llm/05-%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%AD%E7%BB%83%E4%B8%8EGPU/DeepSpeed.md)
+- [prompt_engineering_guide](../../../llm/09-RAG%E4%B8%8EAgent/prompt_engineering_guide.md)
+<!-- related:end -->

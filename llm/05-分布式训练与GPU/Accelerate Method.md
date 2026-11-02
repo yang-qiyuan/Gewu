@@ -10,3 +10,11 @@
 - 反向传播时**重新计算中间结果**。
 
 ## Flash Attention V2
+
+<!-- related:start -->
+## 相关笔记
+
+- [分布式训练与GPU索引](%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%AD%E7%BB%83%E4%B8%8EGPU%E7%B4%A2%E5%BC%95.md)
+- [DeepSpeed](DeepSpeed.md)
+- [常见分布式训练问题](%E5%B8%B8%E8%A7%81%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%AD%E7%BB%83%E9%97%AE%E9%A2%98.md)
+<!-- related:end -->

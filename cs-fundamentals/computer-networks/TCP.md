@@ -112,3 +112,14 @@ Prevents a fast sender from overwhelming the **receiver's buffer** using the adv
 \
 **A Finite State Machine Example of TCP:**
 ![fsm](./imgs/fsm.png)
+
+<!-- related:start -->
+## 相关笔记
+
+- [计算机网络索引](%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%B4%A2%E5%BC%95.md)
+- [1-The4LayerModel](1-The4LayerModel.md)
+- [Error_detection](Error_detection.md)
+- [UDP](UDP.md)
+- [flowcontrol](flowcontrol.md)
+- [Computer Network](../waking-up/Computer%20Network.md)
+<!-- related:end -->

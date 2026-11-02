@@ -200,3 +200,29 @@ CNN主要用于处理具有网格结构的数据，比如图像。它包含了�
 * [github其他人面试问题库](https://github.com/aceliuchanghong/others_interview_notes)
 * [LLMs面试常见问题](https://zhuanlan.zhihu.com/p/659042194)
 
+<!-- related:start -->
+## 相关笔记
+
+- [Transformer与模型架构索引](Transformer%E4%B8%8E%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84%E7%B4%A2%E5%BC%95.md)
+- [atom](../../interview-prep/logs/2024/atom.md)
+- [liantong](../../interview-prep/logs/2024/liantong.md)
+- [ucloud](../../interview-prep/logs/2024/ucloud.md)
+- [baidu-2](../../interview-prep/logs/2025/baidu-2.md)
+- [byd](../../interview-prep/logs/2025/byd.md)
+- [mb](../../interview-prep/logs/2025/mb.md)
+- [mt-2面](../../interview-prep/logs/2025/mt-2%E9%9D%A2.md)
+- [mt](../../interview-prep/logs/2025/mt.md)
+- [上海ym](../../interview-prep/logs/2025/%E4%B8%8A%E6%B5%B7ym.md)
+- [商汤绝影](../../interview-prep/logs/2025/%E5%95%86%E6%B1%A4%E7%BB%9D%E5%BD%B1.md)
+- [喆塔信息](../../interview-prep/logs/2025/%E5%96%86%E5%A1%94%E4%BF%A1%E6%81%AF.md)
+- [开利集团](../../interview-prep/logs/2025/%E5%BC%80%E5%88%A9%E9%9B%86%E5%9B%A2.md)
+- [永赢金融](../../interview-prep/logs/2025/%E6%B0%B8%E8%B5%A2%E9%87%91%E8%9E%8D.md)
+- [珍岛信息科技](../../interview-prep/logs/2025/%E7%8F%8D%E5%B2%9B%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80.md)
+- [维信金科](../../interview-prep/logs/2025/%E7%BB%B4%E4%BF%A1%E9%87%91%E7%A7%91.md)
+- [赛力斯-2](../../interview-prep/logs/2025/%E8%B5%9B%E5%8A%9B%E6%96%AF-2.md)
+- [RNN循环神经网络基础](../01-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/RNN%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80.md)
+- [GPT&Bert&T5](GPT%26Bert%26T5.md)
+- [PyTorch从0开始编写Transformer](PyTorch%E4%BB%8E0%E5%BC%80%E5%A7%8B%E7%BC%96%E5%86%99Transformer.md)
+- [位置编码](%E4%BD%8D%E7%BD%AE%E7%BC%96%E7%A0%81.md)
+- [大模型参数量计算](%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E9%87%8F%E8%AE%A1%E7%AE%97.md)
+<!-- related:end -->

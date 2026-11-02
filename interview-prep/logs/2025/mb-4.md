@@ -55,3 +55,13 @@ Tolan 被设计成外星卡通角色，避免落入“拟人化偏差”，更�
 • 进阶式关系发展路径（游戏机制 + 情节分支）
 
 - https://mp.weixin.qq.com/s/uP1xnGAOcWqMRbjnpifbUQ?scene=1
+
+<!-- related:start -->
+## 相关笔记
+
+- [2025面经索引](2025%E9%9D%A2%E7%BB%8F%E7%B4%A2%E5%BC%95.md)
+- [mb-2](mb-2.md)
+- [mb-3](mb-3.md)
+- [mb-5](mb-5.md)
+- [mb](mb.md)
+<!-- related:end -->

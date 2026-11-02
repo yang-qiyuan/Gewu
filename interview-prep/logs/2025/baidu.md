@@ -105,3 +105,11 @@ V = policy_evaluation(V, policy, gamma)
 print("State Values:")
 print(V)
 ```
+
+<!-- related:start -->
+## 相关笔记
+
+- [2025面经索引](2025%E9%9D%A2%E7%BB%8F%E7%B4%A2%E5%BC%95.md)
+- [baidu-2](baidu-2.md)
+- [强化学习](../../../llm/07-%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.md)
+<!-- related:end -->

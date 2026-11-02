@@ -76,3 +76,16 @@
 ## Interesting Papers
 
 - [论文列表](interesting-papers/README.md)
+
+<!-- related:start -->
+## 相关笔记
+
+- [机器学习索引](machine-learning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%B4%A2%E5%BC%95.md)
+- [计算机网络索引](cs-fundamentals/computer-networks/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%B4%A2%E5%BC%95.md)
+- [后端面试笔记索引](cs-fundamentals/waking-up/%E5%90%8E%E7%AB%AF%E9%9D%A2%E8%AF%95%E7%AC%94%E8%AE%B0%E7%B4%A2%E5%BC%95.md)
+- [面试准备索引](interview-prep/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%E7%B4%A2%E5%BC%95.md)
+- [项目索引](projects/%E9%A1%B9%E7%9B%AE%E7%B4%A2%E5%BC%95.md)
+- [README](llm/README.md)
+- [Leetcode_hot100](algorithms/Leetcode_hot100.md)
+- [README](interesting-papers/README.md)
+<!-- related:end -->

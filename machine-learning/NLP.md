@@ -134,7 +134,12 @@ Search based decoding algorithms are not suitable for open-ended question since 
 
 ### Neural Machine Translation
 
+<!-- related:start -->
+## 相关笔记
 
-
-
-
+- [机器学习索引](%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%B4%A2%E5%BC%95.md)
+- [RNN循环神经网络基础](../llm/01-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/RNN%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80.md)
+- [GPT&Bert&T5](../llm/02-Transformer%E4%B8%8E%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/GPT%26Bert%26T5.md)
+- [CRF](CRF.md)
+- [Latent Dirichlet Allocation](Latent%20Dirichlet%20Allocation.md)
+<!-- related:end -->

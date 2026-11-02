@@ -87,3 +87,12 @@
     ```Text
     能自动管理云端资源，如节点、路由、负载均衡、存储卷等。
     ```
+
+<!-- related:start -->
+## 相关笔记
+
+- [推理与部署索引](%E6%8E%A8%E7%90%86%E4%B8%8E%E9%83%A8%E7%BD%B2%E7%B4%A2%E5%BC%95.md)
+- [mt-2面](../../interview-prep/logs/2025/mt-2%E9%9D%A2.md)
+- [docker](docker.md)
+- [大模型系统设计](%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.md)
+<!-- related:end -->
