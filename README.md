@@ -14,6 +14,7 @@
 | [`algorithms/`](algorithms/) | LeetCode Hot 100 与常用算法 |
 | [`interview-prep/`](interview-prep/) | 高频问题、职业规划、2024–2025 面经 |
 | [`projects/`](projects/) | 项目代码与分析报告 |
+| [`interesting-papers/`](interesting-papers/) | 值得一读的论文 |
 | [`assets/`](assets/) | 笔记共用图片 |
 
 ## Machine Learning
@@ -71,3 +72,7 @@
 
 - [Reward-Guided Code Optimizer](projects/Reward_Guided_Code_Optimizer/)
 - [RL-Guided Code Assistant with RAG-Based Context Retrieval](projects/RL_Guided_Code_Assistant_with_RAG_Based_Context_Retrieval/)
+
+## Interesting Papers
+
+- [论文列表](interesting-papers/README.md)
